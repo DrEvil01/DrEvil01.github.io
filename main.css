@@ -1,0 +1,72 @@
+body{
+    padding-top:0px;
+    margin-top: 0px;
+}
+
+.image{
+    width: 100%;
+    height: auto;
+}
+
+
+p{
+    padding: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 20px;
+}
+
+.xd{
+    color: black;
+}
+
+
+.navigation{
+    top: 0;
+}
+
+ul {
+    top: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+    padding-top:0px;
+    margin-top: 0px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+.label{
+    color: black;
+}
+
+.center_div{
+    margin: 0 auto;
+    width: 50%;
+}
+
+#exampleInputEmail1{
+    width: auto;
+}
+
+
+form{
+    margin-bottom: 20px;    
+}
